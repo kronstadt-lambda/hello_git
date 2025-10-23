@@ -8,6 +8,7 @@ console.log(helloGit());
  * git config --local user.name "Tu Nombre de Trabajo": change the name of the user for local projects.
  * git config --local user.email "trabajo@empresa.com": change the email of the user for local projects.
  * git init: creates a new git repository.
+ * git config --global init.defaultBranch main: creates a new git repository with the default branch main.
  * git branch -m <name>: changes the name of the current branch. It can be named like master, main, dev, trunk.
  * git status: shows the status of the repository.
  * git add <file>: adds a specific file to the staging area.
