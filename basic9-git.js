@@ -4,4 +4,5 @@ export function basic9Git() {
 
 /*
  * git branch -d <name>: deletes the branch.
+ * git branch: list all branches.
  */
