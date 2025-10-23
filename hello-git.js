@@ -15,4 +15,7 @@ console.log(helloGit());
  * git commit -m "<message>": commits the staged files with the message.
  * git log: shows the log of the repository (for exit press 'q').
  * git log -n 5: Shows the last 5 commits.
+ * git log --graph: shows the log of the repository in a graph.
+ * git log --graph --pretty=oneline
+ * git log --graph --decorate --all --oneline
  */
