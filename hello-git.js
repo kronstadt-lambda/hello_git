@@ -9,6 +9,7 @@ console.log(helloGit());
  * git branch -m <name>: changes the name of the current branch. It can be named like master, main, dev, trunk.
  * git status: shows the status of the repository
  * git add <file>: adds a specific file to the staging area
+ * git add .: adds all files in current directory to the staging area
  * git commit -m "<message>": commits the staged files with the message
  * git push: pushes the changes to the remote repository
  * git remote add origin <url>: adds the remote repository
