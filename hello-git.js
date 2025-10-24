@@ -3,8 +3,8 @@ console.log(helloGit());
 
 /*
  * Commands:
- * git --config --global user.name: shows the name of the user.
- * git --config --global user.email: shows the email of the user.
+ * git config --global user.name: shows the name of the user.
+ * git config --global user.email: shows the email of the user.
  * git config --local user.name "Tu Nombre de Trabajo": change the name of the user for local projects.
  * git config --local user.email "trabajo@empresa.com": change the email of the user for local projects.
  * git init: creates a new git repository.
