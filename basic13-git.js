@@ -10,6 +10,10 @@ export function basic13Git() {
 
  Same but in local repository:
  git remote add upstream <original-repo-url>: adds the original repository as a remote named "upstream".
+ - origin     https://github.com/tu-usuario/tu-repo.git (fetch)
+ - origin     https://github.com/tu-usuario/tu-repo.git (push)
+ - upstream   https://github.com/otro/repo.git (fetch)
+ - upstream   https://github.com/otro/repo.git (push)
  git fetch upstream: fetches the changes from the original repository.
  git checkout main: switches to the main branch.
  git merge upstream/main: merges the changes from the original repository's main branch into your local main branch.
